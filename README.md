@@ -1,6 +1,5 @@
 
 <h1>jQuery Bengali Digit to English Digit Converter</h1>
-A jQuery plugin for Bengali digit to English digit converter 
 
 <p><a href="https://travis-ci.org/jaysalvat/https://travis-ci.org/jaysalvat/jquery.facedetection" rel="nofollow"><img alt="Build Status" src="https://camo.githubusercontent.com/f9ceb6ef378bbebcb3843e76785aee0968f171c3/68747470733a2f2f7472617669732d63692e6f72672f6a617973616c7661742f6a71756572792e66616365646574656374696f6e2e706e673f6272616e63683d6d6173746572" /></a>&nbsp;</p>
 
