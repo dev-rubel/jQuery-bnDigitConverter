@@ -9,7 +9,7 @@
 
 <p>Website and demo here:</p>
 
-<p><a href="http://tanvirpro.com/" target="_blank" rel="nofollow">http://tanvirpro.com/all_project/bengaliDigitConverter</a></p>
+<p><a href="http://tanvirpro.com/" target="_blank">http://tanvirpro.com/all_project/bengaliDigitConverter</a></p>
 
 <h2>Get started</h2>
 
