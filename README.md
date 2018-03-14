@@ -59,11 +59,11 @@
 <ul>
 <li>
 	<p><strong>complete</strong>&nbsp;&mdash; Callback function trigged after the detection is completed</p>
-<code>  	
+<pre><code>  	
 	complete: function () {
 			// ...
 	}
-</code>
+</code></pre>
 
 </li>
 </ul>
