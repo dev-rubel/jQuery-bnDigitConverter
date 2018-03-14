@@ -57,7 +57,8 @@
 <code>  complete: function () {
       // ...
   }
-</code></pre>
+</code>
+
 </li>
 </ul>
 
