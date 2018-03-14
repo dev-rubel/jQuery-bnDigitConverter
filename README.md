@@ -46,7 +46,9 @@
 <h2>Results</h2>
 
 <p>Returns Bengali digit in English</p>
-
+<code>  
+	১৯৭১ -> 1971
+</code>
 <h2>Settings</h2>
 
 <ul>
