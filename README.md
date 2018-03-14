@@ -48,7 +48,6 @@
 <p>Returns Bengali digit in English</p>
 <pre>
 <code>  
-	
 	১৯৭১ -> 1971
 	
 	২০১৮ -> 2018
