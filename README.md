@@ -26,9 +26,9 @@
 &lt;script src=&quot;js/</code>jquery.bengaliDigitConverter.js<code>&quot;&gt;&lt;/script&gt;
 </code></pre>
 
-<p>Set a picture with some faces in your HTML page.</p>
+<p>To change any Bengali digit on your HTML page.</p>
 
-<p>write an input field or any HTML&nbsp;element</p>
+<p>Write an input field or any HTML&nbsp;element</p>
 
 <pre>
 <code>&lt;span&gt;১২৩৪৫৬৭৮৯&lt;/span&gt;
