@@ -35,7 +35,7 @@
 &lt;input type=&quot;text&quot; value=&quot;১৯৭১&quot;&gt; 
 </code></pre>
 
-<p>Apply the plugin to input or any element on your HTML page and get Bengali digit to English digit.</p>
+<p>Apply the plugin to input or any element on your HTML page and get replace Bengali digit to English digit.</p>
 
 <pre>
 <code>&lt;script&gt;
