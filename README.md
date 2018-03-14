@@ -15,7 +15,7 @@
 
 <ul>
 	<li>
-	<p>Download the&nbsp;<a href="http://github.com/tanvirs2/jQuery-bnDigitConverter/blob/master/jquery.bengaliDigitConverter.js" rel="nofollow">last release</a>&nbsp;manually</p>
+	<p>Download the&nbsp;<a href="https://github.com/tanvirs2/jQuery-bnDigitConverter/archive/master.zip" rel="nofollow">last release</a>&nbsp;manually</p>
 	</li>
 </ul>
 
