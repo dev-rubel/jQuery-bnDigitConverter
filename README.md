@@ -46,6 +46,7 @@
 <h2>Results</h2>
 
 <p>Returns Bengali digit in English</p>
+<pre>
 <code>  
 	
 	১৯৭১ -> 1971
@@ -54,6 +55,7 @@
 	
 	০১২৩৪৫৬৭৮৯ -> 0123456789
 </code>
+</pre>
 <h2>Settings</h2>
 
 <ul>
