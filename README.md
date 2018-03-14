@@ -47,6 +47,7 @@
 
 <p>Returns Bengali digit in English</p>
 <code>  
+	
 	১৯৭১ -> 1971
 	
 	২০১৮ -> 2018
@@ -60,9 +61,11 @@
 	<p><strong>complete</strong>&nbsp;&mdash; Callback function trigged after the detection is completed</p>
 
 	
-<code>  complete: function () {
-      // ...
-  }
+<code>  
+	
+	complete: function () {
+      		// ...
+  	}
 </code>
 
 </li>
